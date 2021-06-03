@@ -1,6 +1,9 @@
-# Open-Weather-API
+# OpenWeatherApp API
 I had used openweather API for making of this project 
 so please get your own API key from their site
+
+# Visit Site
+ [Click to Open](https://weatherappbypranjal.netlify.app/)
 
 # Getting Started with Create React App
 
