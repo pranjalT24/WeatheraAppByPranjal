@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+I had used openweather API for making of this project 
+so please get your own API key from their site
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
