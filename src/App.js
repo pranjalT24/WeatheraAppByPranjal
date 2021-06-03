@@ -8,7 +8,7 @@ function App() {
  
     useEffect(() => {
       var getData=async ()=>{
-        var response=await fetch(`http://api.openweathermap.org/data/2.5/weather?q=${place}&units=metric&appid=c734617deab0f8f3c82dabf3426de1fa`)
+        var response=await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${place}&units=metric&appid=c734617deab0f8f3c82dabf3426de1fa`)
         var result=await response.json();
         console.log(result);
         if (result.cod<400) {
