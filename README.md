@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Open-Weather-API
 I had used openweather API for making of this project 
 so please get your own API key from their site
 
